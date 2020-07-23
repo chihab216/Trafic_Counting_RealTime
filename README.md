@@ -1,4 +1,5 @@
 
+This is the result of my internship with ICTLab in vietnam.
 - Run `pip install -r requirements.txt` to install dependencies.
 
 
